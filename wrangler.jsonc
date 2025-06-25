@@ -1,5 +1,5 @@
 {
-  "name": "browser-rendering",
+  "name": "html-to-image-cf-test",
   "main": "src/index.ts",
   "workers_dev": true,
   "compatibility_flags": [
