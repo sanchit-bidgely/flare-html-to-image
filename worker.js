@@ -57,10 +57,7 @@ export default {
 
       // Take screenshot
       const screenshotOptions = {
-        type: payload.format || 'png',
-        quality: payload.quality || 90,
         fullPage: payload.fullPage !== false, // default to true
-        omitBackground: payload.omitBackground || false
       };
 
       // Add clip if provided
