@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/sanchit-bidgely/flare-html-to-image#readme",
   "devDependencies": {
-    "@cloudflare/puppeteer": "^1.0.2"
+    "@cloudflare/puppeteer": "^1.0.2",
+    "wrangler": "^4.21.2"
   }
 }
