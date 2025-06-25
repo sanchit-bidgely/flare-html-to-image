@@ -1,6 +1,6 @@
 {
   "name": "html-to-image-cf-test",
-  "main": "src/index.ts",
+  "main": "./worker.js",
   "workers_dev": true,
   "compatibility_flags": [
     "nodejs_compat_v2"
