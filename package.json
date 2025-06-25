@@ -1,0 +1,22 @@
+{
+  "name": "flare-html-to-image",
+  "version": "1.0.0",
+  "description": "",
+  "main": "worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanchit-bidgely/flare-html-to-image.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanchit-bidgely/flare-html-to-image/issues"
+  },
+  "homepage": "https://github.com/sanchit-bidgely/flare-html-to-image#readme",
+  "devDependencies": {
+    "@cloudflare/puppeteer": "^1.0.2"
+  }
+}
